@@ -1,4 +1,4 @@
-#### Introduction
+####### Introduction
 This project is a memory-based game where players must watch and remember sequences and replicate them. With each successful round, the sequence becomes longer, challenging the player’s memory.
 
 Features
