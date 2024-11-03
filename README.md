@@ -21,6 +21,9 @@ Gradually increasing difficulty as the sequence grows
 
 # How to Play
   1.Watch the sequence of colors as they flash on the screen.
+  
   2.Repeat the sequence by clicking the colored buttons in the correct order.
+  
   3.With each correct attempt, the sequence grows by one color.
+  
   4.The game continues until the sequence is missed.
