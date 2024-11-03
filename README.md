@@ -11,6 +11,7 @@ Gradually increasing difficulty as the sequence grows
   Web Browser (for a web-based game)
 ## Installation
   1.Clone the repository:
+  
         git clone https://github.com/yourusername/simon-game.git 
         cd simon-game
 
