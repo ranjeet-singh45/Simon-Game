@@ -1,11 +1,14 @@
 # Introduction
 This project is a memory-based game where players must watch and remember sequences and replicate them. With each successful round, the sequence becomes longer, challenging the player’s memory.
 
-#Features
-A simple, interactive UI
-Color and sound effects for each button press
-Gradually increasing difficulty as the sequence grows
-[Additional Features: Add any specific features you implemented, like score tracking, levels, etc.]
+# Features
+  1.A simple, interactive UI
+  
+  2.Color and sound effects for each button press
+  
+  3.For each successful completion of round, level will be up by 1(Gradually increasing difficulty as the sequence grows).
+
+  
 # Getting Started
 ## Prerequisites
   Web Browser (for a web-based game)
